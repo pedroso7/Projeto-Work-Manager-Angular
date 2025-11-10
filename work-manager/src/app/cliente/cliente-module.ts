@@ -3,11 +3,13 @@ import { CommonModule } from '@angular/common';
 
 import { ClienteRoutingModule } from './cliente-routing-module';
 import { Tela } from './tela/tela';
+import { Cadastro } from './cadastro/cadastro';
 
 
 @NgModule({
   declarations: [
-    Tela
+    Tela,
+    Cadastro
   ],
   imports: [
     CommonModule,
