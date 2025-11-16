@@ -6,6 +6,8 @@ import { Component } from '@angular/core';
   templateUrl: './tela.html',
   styleUrl: './tela.css',
 })
-export class Tela {
 
+export class Tela {
+  
 }
+
